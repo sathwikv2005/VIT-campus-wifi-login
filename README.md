@@ -35,7 +35,6 @@ These are standard Python libraries, so no additional installation is needed.
    python VITCampusLogin.py
    ```
 
-   Replace `your_script_name.py` with the name of your Python script.
 
 ## How It Works
 
